@@ -41,6 +41,8 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
 	<string>581974189677362</string>
+	<key>FacebookClientToken</key>
+	<string>6239fa4c49ff7c01790b8bc1ab9d3b2f</string>
 	<key>FacebookDisplayName</key>
 	<string>Pharmacology Exam</string>
 	<key>LSRequiresIPhoneOS</key>
