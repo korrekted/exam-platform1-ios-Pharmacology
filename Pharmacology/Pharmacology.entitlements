@@ -6,7 +6,7 @@
 	<string>development</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.pharmacology.stats</string>
+		<string>group.pharmacology.widget</string>
 	</array>
 </dict>
 </plist>
